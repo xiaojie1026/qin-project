@@ -1,4 +1,4 @@
-function distance = gf2num(gf_a)
+function distance = gf2num(gf_a)；
 distance = -1;
 if (gf_a == gf(0,3)) distance = 0; end
 if (gf_a == gf(1,3)) distance = 1; end
